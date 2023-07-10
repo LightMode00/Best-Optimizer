@@ -46,53 +46,11 @@ https://github.com/LightMode00/Best-Optimizer/releases
 
 <hr>
 
-### 🖼️ Screenshots:
-
-https://github.com/LightMode00/Best-Optimizer/blob/master/IMAGES.md
-
-<hr>
-
 ### 🆘 How to effectively disable Defender in Windows 10 1903 and later
 
 Restart in SAFE-MODE and run Optimizer with `/disabledefender` switch
 <br>-OR-<br>
 Execute Optimizer with `/restart=disabledefender` switch and let it do the rest automatically
-
-<hr>
-
-### 🔨 Automation using templating:
-
-https://github.com/LightMode00/Best-Optimizer/blob/master/AUTOMATION.md
-
-<hr>
-
-### 🔨 Command-line options:
-
-https://github.com/LightMode00/Best-Optimizer/blob/master/CONFS.md
-
-<hr>
-
-### ❓ Frequently asked questions section:
-
-https://github.com/LightMode00/Best-Optimizer/blob/master/FAQ.md
-
-<hr>
-
-### 📜 Changelog:
-
-https://github.com/LightMode00/Best-Optimizer/blob/master/CHANGELOG.md
-
-<hr>
-
-### 🛡️ Security policy:
-
-https://github.com/LightMode00/Best-Optimizer/blob/master/SECURITY.md
-
-<hr>
-
-### 🖼️ Early development images:
-
-https://github.com/LightMode00/Best-Optimizer/blob/master/LEGACY.md
 
 <hr>
 
@@ -115,10 +73,6 @@ https://github.com/LightMode00/Best-Optimizer/blob/master/LEGACY.md
 ### ☕ Buy me a delicious espresso
 
 Support my hard work by donating me through [PayPal](https://www.paypal.com/paypalme/supportoptimizer)
-
-<hr>
-
-### 🌐 Join our [Discord](https://discord.gg/rZh8BhmmQv) community
 
 <hr>
 
