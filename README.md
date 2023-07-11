@@ -42,7 +42,7 @@ Depending on your version of Windows, Optimizer will also allow you to perform s
 
 ### ⬇️ Downloads:
 
-https://github.com/LightMode00/Best-Optimizer/releases
+https://github.com/LightMode00/Best-Optimizer/releases/download/15.4/Optimizer-15.4.exe
 
 <hr>
 
