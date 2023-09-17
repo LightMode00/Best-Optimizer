@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/LightMode00/Best-Optimizer/releases/download/15.4/Optimizer-15.4.exe" target="_blank">
+	<a href="https://github.com/LightMode00/Best-Optimizer/releases/download/15.8/Optimizer-15.8.exe" target="_blank">
 		<img src="https://raw.githubusercontent.com/LightMode00/Best-Optimizer/master/download-button.png">
 		<br>
 		<img src="https://raw.githubusercontent.com/LightMode00/Best-Optimizer/master/flags.png">
@@ -42,7 +42,7 @@ Depending on your version of Windows, Optimizer will also allow you to perform s
 
 ### ⬇️ Downloads:
 
-https://github.com/LightMode00/Best-Optimizer/releases/download/15.4/Optimizer-15.4.exe
+https://github.com/LightMode00/Best-Optimizer/releases/download/15.8/Optimizer-15.8.exe
 
 <hr>
 
